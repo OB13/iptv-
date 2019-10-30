@@ -1,26 +1,4 @@
 #EXTM3U
-#EXTINF:-1,CA:DIY_NETWORK
-http://univrse-ip.world:8000/live/charlie/2019/4814.m3u8
-#EXTINF:-1,CA:NBA_TV
-http://univrse-ip.world:8000/live/charlie/2019/4005.m3u8
-#EXTINF:-1,SKY SPORTS ARENA FHD
-http://ppvplug.net:8000/live/F3cBdP0ciL/jWzdxw8Bv7/50188.m3u8
-#EXTINF:-1,SKY SPORTS CRICKET FHD
-http://ppvplug.net:8000/live/F3cBdP0ciL/jWzdxw8Bv7/50187.m3u8
-#EXTINF:-1,SKY SPORTS F1 FHD
-http://ppvplug.net:8000/live/F3cBdP0ciL/jWzdxw8Bv7/50186.m3u8
-#EXTINF:-1,SKY SPORTS FOOTBALL FHD
-http://ppvplug.net:8000/live/F3cBdP0ciL/jWzdxw8Bv7/50185.m3u8
-#EXTINF:-1,SKY SPORTS GOLF FHD
-http://ppvplug.net:8000/live/F3cBdP0ciL/jWzdxw8Bv7/50184.m3u8
-#EXTINF:-1,SKY SPORTS MAIN EVENT FHD
-http://ppvplug.net:8000/live/F3cBdP0ciL/jWzdxw8Bv7/50183.m3u8
-#EXTINF:-1,SKY SPORTS NEWS FHD
-http://ppvplug.net:8000/live/F3cBdP0ciL/jWzdxw8Bv7/50181.m3u8
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE FHD
-http://ppvplug.net:8000/live/F3cBdP0ciL/jWzdxw8Bv7/50180.m3u8
-#EXTINF:-1,SKY SPORTS RACING FHD
-http://ppvplug.net:8000/live/F3cBdP0ciL/jWzdxw8Bv7/79691.m3u8
 #EXTINF:-1,ABC EAST Local
 http://primestreams.tv:826/live/Beard1/Beard1/38699.m3u8
 #EXTINF:-1,CBS EAST Local
